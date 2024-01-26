@@ -1,0 +1,13 @@
+﻿using DTO_QLBanHang;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BUS_QLBanHang
+{
+    public class Class
+    {
+    }
+}

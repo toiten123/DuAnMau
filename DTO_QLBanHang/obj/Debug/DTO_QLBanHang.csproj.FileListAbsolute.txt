@@ -1,0 +1,12 @@
+C:\Users\nguye\Downloads\Dự án mẫu\QLBanHang\DTO_QLBanHang\bin\Debug\DTO_QLBanHang.dll.config
+C:\Users\nguye\Downloads\Dự án mẫu\QLBanHang\DTO_QLBanHang\bin\Debug\DTO_QLBanHang.dll
+C:\Users\nguye\Downloads\Dự án mẫu\QLBanHang\DTO_QLBanHang\bin\Debug\DTO_QLBanHang.pdb
+C:\Users\nguye\Downloads\Dự án mẫu\QLBanHang\DTO_QLBanHang\bin\Debug\EntityFramework.dll
+C:\Users\nguye\Downloads\Dự án mẫu\QLBanHang\DTO_QLBanHang\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nguye\Downloads\Dự án mẫu\QLBanHang\DTO_QLBanHang\bin\Debug\EntityFramework.xml
+C:\Users\nguye\Downloads\Dự án mẫu\QLBanHang\DTO_QLBanHang\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nguye\Downloads\Dự án mẫu\QLBanHang\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\Dự án mẫu\QLBanHang\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\Dự án mẫu\QLBanHang\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.csproj.CopyComplete
+C:\Users\nguye\Downloads\Dự án mẫu\QLBanHang\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.dll
+C:\Users\nguye\Downloads\Dự án mẫu\QLBanHang\DTO_QLBanHang\obj\Debug\DTO_QLBanHang.pdb
